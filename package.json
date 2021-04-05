@@ -13,10 +13,6 @@
   "version": "5.0.2",
   "homepage": "http://NightlyCommit.github.io/twing",
   "license": "BSD-2-Clause",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/NightlyCommit/twing"
-  },
   "main": "dist/cjs/main.js",
   "browser": "dist/es/browser.js",
   "module": "dist/es",
