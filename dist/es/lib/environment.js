@@ -16,7 +16,7 @@ import { TwingSourceMapNodeFactory } from "./source-map/node-factory";
 const path = require('path');
 const sha256 = require('crypto-js/sha256');
 const hex = require('crypto-js/enc-hex');
-export const VERSION = '__VERSION__';
+export const VERSION = '5.0.2';
 /**
  * @author Eric MORAND <eric.morand@gmail.com>
  */

@@ -19,7 +19,7 @@ const node_factory_1 = require("./source-map/node-factory");
 const path = require('path');
 const sha256 = require('crypto-js/sha256');
 const hex = require('crypto-js/enc-hex');
-exports.VERSION = '__VERSION__';
+exports.VERSION = '5.0.2';
 /**
  * @author Eric MORAND <eric.morand@gmail.com>
  */
