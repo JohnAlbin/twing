@@ -14,7 +14,7 @@
   "homepage": "http://NightlyCommit.github.io/twing",
   "license": "BSD-2-Clause",
   "main": "dist/cjs/main.js",
-  "browser": "dist/es/browser.js",
+  "browser-disabled": "dist/es/browser.js",
   "module": "dist/es",
   "types": "dist/types/main.d.ts",
   "engines": {
