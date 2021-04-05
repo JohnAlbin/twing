@@ -44,7 +44,6 @@
     "docs:install": "cd docs && bundle install --path vendor/bundle"
   },
   "dependencies": {
-    "@types/luxon": "^1.4.0",
     "camelcase": "^4.1.0",
     "capitalize": "^1.0.0",
     "crypto-js": "^3.1.9-1",
@@ -73,6 +72,7 @@
   "devDependencies": {
     "@types/fs-extra": "^8.0.0",
     "@types/locutus": "0.0.5",
+    "@types/luxon": "^1.4.0",
     "@types/node": "^9.3.0",
     "@types/sinon": "^4.3.3",
     "@types/tape": "^4.2.33",
